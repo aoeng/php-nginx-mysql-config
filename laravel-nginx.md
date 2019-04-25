@@ -1,6 +1,6 @@
 ### laravel项目nginx服务器配置
 
-```
+```apacheconfig
 server {
     listen 80;
     listen 443 ssl http2;
